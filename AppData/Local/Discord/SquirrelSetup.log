@@ -1,0 +1,58 @@
+﻿3340> 2021-07-13 14:30:32> Program: Starting Squirrel Updater: --createShortcut Discord.exe --setupIcon C:\Users\dankd\AppData\Local\Discord\app.ico
+3340> 2021-07-13 14:30:32> ApplyReleasesImpl: About to create shortcuts for Discord.exe, rootAppDir C:\Users\dankd\AppData\Local\Discord
+3340> 2021-07-13 14:30:32> ApplyReleasesImpl: Creating shortcut for Discord.exe => C:\Users\dankd\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Discord Inc.\Discord.lnk
+3340> 2021-07-13 14:30:32> ApplyReleasesImpl: About to save shortcut: C:\Users\dankd\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Discord Inc.\Discord.lnk (target C:\Users\dankd\AppData\Local\Discord\Update.exe, workingDir C:\Users\dankd\AppData\Local\Discord\app-1.0.9002, args --processStart Discord.exe)
+3340> 2021-07-13 14:30:32> ApplyReleasesImpl: Creating shortcut for Discord.exe => C:\Users\dankd\OneDrive\Área de Trabalho\Discord.lnk
+3340> 2021-07-13 14:30:32> ApplyReleasesImpl: About to save shortcut: C:\Users\dankd\OneDrive\Área de Trabalho\Discord.lnk (target C:\Users\dankd\AppData\Local\Discord\Update.exe, workingDir C:\Users\dankd\AppData\Local\Discord\app-1.0.9002, args --processStart Discord.exe)
+3340> 2021-07-13 14:30:32> ApplyReleasesImpl: fixPinnedExecutables: newCurrentFolder: app-1.0.9002
+3340> 2021-07-13 14:30:32> ApplyReleasesImpl: fixPinnedExecutables: enumerating path C:\Users\dankd\AppData\Roaming\Microsoft\Windows\Start Menu failed: System.UnauthorizedAccessException: O acesso ao caminho 'C:\Users\dankd\AppData\Roaming\Microsoft\Windows\Start Menu\Programas' foi negado.
+   em System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   em System.IO.FileSystemEnumerableIterator`1.AddSearchableDirsToStack(SearchData localSearchData)
+   em System.IO.FileSystemEnumerableIterator`1.MoveNext()
+   em System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   em System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   em System.IO.DirectoryInfo.GetFiles(String searchPattern, SearchOption searchOption)
+   em Squirrel.UpdateManager.ApplyReleasesImpl.fixPinnedExecutables(SemanticVersion newCurrentVersion)
+3340> 2021-07-13 14:30:33> ApplyReleasesImpl: Updating shortcut C:\Users\dankd\OneDrive\Área de Trabalho\Discord.lnk
+30132> 2021-07-13 19:50:52> Program: Starting Squirrel Updater: --processStart Discord.exe
+30132> 2021-07-13 19:50:52> Program: About to launch: 'C:\Users\dankd\AppData\Local\Discord\app-1.0.9002\Discord.exe': 
+28332> 2021-07-14 07:01:35> Program: Starting Squirrel Updater: --processStart Discord.exe
+28332> 2021-07-14 07:01:35> Program: About to launch: 'C:\Users\dankd\AppData\Local\Discord\app-1.0.9002\Discord.exe': 
+31608> 2021-07-14 19:58:37> Program: Starting Squirrel Updater: --processStart Discord.exe
+31608> 2021-07-14 19:58:37> Program: About to launch: 'C:\Users\dankd\AppData\Local\Discord\app-1.0.9002\Discord.exe': 
+4492> 2021-07-15 07:00:47> Program: Starting Squirrel Updater: --processStart Discord.exe
+4492> 2021-07-15 07:00:47> Program: About to launch: 'C:\Users\dankd\AppData\Local\Discord\app-1.0.9002\Discord.exe': 
+13140> 2021-07-15 19:27:57> Program: Starting Squirrel Updater: --processStart Discord.exe
+13140> 2021-07-15 19:27:58> Program: About to launch: 'C:\Users\dankd\AppData\Local\Discord\app-1.0.9002\Discord.exe': 
+15624> 2021-07-16 06:46:39> Program: Starting Squirrel Updater: --processStart Discord.exe
+15624> 2021-07-16 06:46:39> Program: About to launch: 'C:\Users\dankd\AppData\Local\Discord\app-1.0.9002\Discord.exe': 
+21180> 2021-07-17 17:12:46> Program: Starting Squirrel Updater: --processStart Discord.exe
+21180> 2021-07-17 17:12:46> Program: About to launch: 'C:\Users\dankd\AppData\Local\Discord\app-1.0.9002\Discord.exe': 
+28788> 2021-07-18 08:46:48> Program: Starting Squirrel Updater: --processStart Discord.exe
+28788> 2021-07-18 08:46:48> Program: About to launch: 'C:\Users\dankd\AppData\Local\Discord\app-1.0.9002\Discord.exe': 
+33864> 2021-07-19 07:03:48> Program: Starting Squirrel Updater: --processStart Discord.exe
+33864> 2021-07-19 07:03:48> Program: About to launch: 'C:\Users\dankd\AppData\Local\Discord\app-1.0.9002\Discord.exe': 
+14100> 2021-07-20 07:02:14> Program: Starting Squirrel Updater: --processStart Discord.exe
+14100> 2021-07-20 07:02:14> Program: About to launch: 'C:\Users\dankd\AppData\Local\Discord\app-1.0.9002\Discord.exe': 
+17772> 2021-07-20 18:58:31> Program: Starting Squirrel Updater: --processStart Discord.exe
+17772> 2021-07-20 18:58:31> Program: About to launch: 'C:\Users\dankd\AppData\Local\Discord\app-1.0.9002\Discord.exe': 
+30844> 2021-07-21 07:12:19> Program: Starting Squirrel Updater: --processStart Discord.exe
+30844> 2021-07-21 07:12:19> Program: About to launch: 'C:\Users\dankd\AppData\Local\Discord\app-1.0.9002\Discord.exe': 
+9116> 2021-07-21 16:32:20> Program: Starting Squirrel Updater: --processStart Discord.exe
+9116> 2021-07-21 16:32:20> Program: About to launch: 'C:\Users\dankd\AppData\Local\Discord\app-1.0.9002\Discord.exe': 
+17732> 2021-07-22 06:59:27> Program: Starting Squirrel Updater: --processStart Discord.exe
+17732> 2021-07-22 06:59:27> Program: About to launch: 'C:\Users\dankd\AppData\Local\Discord\app-1.0.9002\Discord.exe': 
+10844> 2021-07-22 19:01:18> Program: Starting Squirrel Updater: --processStart Discord.exe
+10844> 2021-07-22 19:01:18> Program: About to launch: 'C:\Users\dankd\AppData\Local\Discord\app-1.0.9002\Discord.exe': 
+18888> 2021-07-23 06:58:31> Program: Starting Squirrel Updater: --processStart Discord.exe
+18888> 2021-07-23 06:58:31> Program: About to launch: 'C:\Users\dankd\AppData\Local\Discord\app-1.0.9002\Discord.exe': 
+11536> 2021-07-23 09:48:14> Program: Starting Squirrel Updater: --processStart Discord.exe
+11536> 2021-07-23 09:48:15> Program: About to launch: 'C:\Users\dankd\AppData\Local\Discord\app-1.0.9002\Discord.exe': 
+14244> 2021-07-25 08:58:39> Program: Starting Squirrel Updater: --processStart Discord.exe
+14244> 2021-07-25 08:58:39> Program: About to launch: 'C:\Users\dankd\AppData\Local\Discord\app-1.0.9002\Discord.exe': 
+13076> 2021-07-25 11:37:17> Program: Starting Squirrel Updater: --processStart Discord.exe
+13076> 2021-07-25 11:37:17> Program: About to launch: 'C:\Users\dankd\AppData\Local\Discord\app-1.0.9002\Discord.exe': 
+1020> 2021-07-25 16:31:24> Program: Starting Squirrel Updater: --processStart Discord.exe
+1020> 2021-07-25 16:31:24> Program: About to launch: 'C:\Users\dankd\AppData\Local\Discord\app-1.0.9002\Discord.exe': 
+10004> 2021-07-26 12:39:16> Program: Starting Squirrel Updater: --processStart Discord.exe
+10004> 2021-07-26 12:39:16> Program: About to launch: 'C:\Users\dankd\AppData\Local\Discord\app-1.0.9002\Discord.exe': 

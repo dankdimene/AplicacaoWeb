@@ -1,0 +1,28 @@
+﻿{
+   "AfcDatabaseSettings" : {
+      "DatabaseInstanceId" : 0,
+      "LastUpdated" : "2021-05-30T08:13:04.478"
+   },
+   "AfsActivityTypes" : [ 0, 1, 3, 4, 5, 6, 7, 13, 16 ],
+   "AfsChannelUri" : "https://wns2-bl2p.notify.windows.com/?token=AwYAAADEMWiC7M3WXzxHMyaQgYKufSHAo625Xn%2bpHPrv71eiBcxVc03ySo6ULbLhmkq6OldRYhxblACj4NmWZ5HRN336tYYPDRFjDhXkIXpQb8mlqsbFjCG96xsm9mp%2fGDeGQtBBK%2fhN30F4WwI%2fLj9b0%2bJm",
+   "AfsEnvironment" : "prod",
+   "AfsSubscriptionId" : "79f8146e-10ad-b339-9110-cfa43e97f6a3",
+   "AfsSubscriptionUpdateTime" : "2021-07-25T14:37:34.770Z",
+   "BaseRegisteredInfoHash" : "",
+   "CNCNotificationChannelId" : "1;11582911209728469890",
+   "CNCNotificationUri" : "https://wns2-bl2p.notify.windows.com/?token=AwYAAADEMWiC7M3WXzxHMyaQgYKufSHAo625Xn%2bpHPrv71eiBcxVc03ySo6ULbLhmkq6OldRYhxblACj4NmWZ5HRN336tYYPDRFjDhXkIXpQb8mlqsbFjCG96xsm9mp%2fGDeGQtBBK%2fhN30F4WwI%2fLj9b0%2bJm",
+   "CNCNotificationUriExpirationTime" : "2021-08-24T14:36:54.000Z",
+   "CNCNotificationUriLastSynced" : "2021-07-25T14:36:54.770Z",
+   "DdsRegistrationExpiryTickCount" : 2416192687584,
+   "Devices" : [],
+   "FormatVersion" : 12,
+   "LastRegisteredNotificationUri" : "",
+   "LastRegisteredNotificationUriExpirationTime" : "0000-00-00T00:00:00.000",
+   "LastSyncedTime" : "0000-00-00T00:00:00.000",
+   "LogicalDeviceId" : "9g/5dONtyzOsg/qRv3MdsvIXhJXUzKGsj4q3f7piJvw=",
+   "NeedsToRevokeChannel" : false,
+   "NextDataEncryptionKeyRolloverTime" : "0000-00-00T00:00:00.000",
+   "RegisteredInfoHash" : "",
+   "RegisteredWithStrongAuth" : true,
+   "StableUserId" : "AAD.f80a95c7-2adb-4a71-8e30-9b4d17e63a92"
+}

@@ -1,0 +1,1787 @@
+
+Iniciado: quinta-feira, 10 de junho de 2021 à(s) 14:52:13
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+/AgencyFB-Bold
+/AgencyFB-Reg
+/Algerian
+/BookAntiqua-Bold
+/BookAntiqua-BoldItalic
+/BookAntiqua-Italic
+/ArialMT
+/Arial-BoldMT
+/Arial-BoldItalicMT
+/Arial-ItalicMT
+/ArialNarrow
+/ArialNarrow-Bold
+/ArialNarrow-BoldItalic
+/ArialNarrow-Italic
+/Arial-Black
+/ArialRoundedMTBold
+/Bahnschrift
+/BaskOldFace
+/Bauhaus93
+/BellMT
+/BellMTBold
+/BellMTItalic
+/BernardMT-Condensed
+/BookAntiqua
+/BodoniMT-Bold
+/BodoniMT-BoldItalic
+/BodoniMTBlack-Italic
+/BodoniMTBlack
+/BodoniMTCondensed-Bold
+/BodoniMTCondensed-BoldItalic
+/BodoniMTCondensed-Italic
+/BodoniMTCondensed
+/BodoniMT-Italic
+/BodoniMTPosterCompressed
+/BodoniMT
+/BookmanOldStyle
+/BookmanOldStyle-Bold
+/BookmanOldStyle-BoldItalic
+/BookmanOldStyle-Italic
+/BradleyHandITC
+/BritannicBold
+/BerlinSansFB-Bold
+/BerlinSansFBDemi-Bold
+/BerlinSansFB-Reg
+/Broadway
+/BrushScriptMT
+/BookshelfSymbolSeven
+/Calibri
+/Calibri-Bold
+/Calibri-Italic
+/Calibri-Light
+/Calibri-LightItalic
+/Calibri-BoldItalic
+/CalifornianFB-Bold
+/CalifornianFB-Italic
+/CalifornianFB-Reg
+/CalistoMT
+/CalisMTBol
+/CalistoMT-BoldItalic
+/CalistoMT-Italic
+/Cambria
+/CambriaMath
+/Cambria-Bold
+/Cambria-Italic
+/Cambria-BoldItalic
+/Candara
+/Candara-Bold
+/Candara-Italic
+/Candara-Light
+/Candara-LightItalic
+/Candara-BoldItalic
+/Castellar
+/CenturySchoolbook
+/Centaur
+/Century
+/Chiller-Regular
+/ColonnaMT
+/ComicSansMS
+/ComicSansMS-Bold
+/ComicSansMS-Italic
+/ComicSansMS-BoldItalic
+/Consolas
+/Consolas-Bold
+/Consolas-Italic
+/Consolas-BoldItalic
+/Constantia
+/Constantia-Bold
+/Constantia-Italic
+/Constantia-BoldItalic
+/CooperBlack
+/CopperplateGothic-Bold
+/CopperplateGothic-Light
+/Corbel
+/Corbel-Bold
+/Corbel-Italic
+/CorbelLight
+/CorbelLight-Italic
+/Corbel-BoldItalic
+/CourierNewPSMT
+/CourierNewPS-BoldMT
+/CourierNewPS-BoldItalicMT
+/CourierNewPS-ItalicMT
+/CurlzMT
+/Dubai-Bold
+/Dubai-Light
+/Dubai-Medium
+/Dubai-Regular
+/Ebrima
+/Ebrima-Bold
+/Elephant-Regular
+/Elephant-Italic
+/EngraversMT
+/ErasITC-Bold
+/ErasITC-Demi
+/ErasITC-Light
+/ErasITC-Medium
+/FelixTitlingMT
+/ForteMT
+/FranklinGothic-Book
+/FranklinGothic-BookItalic
+/FranklinGothic-Demi
+/FranklinGothic-DemiCond
+/FranklinGothic-DemiItalic
+/FranklinGothic-Heavy
+/FranklinGothic-HeavyItalic
+/FranklinGothic-Medium
+/FranklinGothic-MediumCond
+/FranklinGothic-MediumItalic
+/FreestyleScript-Regular
+/FrenchScriptMT
+/FootlightMTLight
+/Gabriola
+/Gadugi
+/Gadugi-Bold
+/Garamond
+/Garamond-Bold
+/Garamond-Italic
+/Georgia
+/Georgia-Bold
+/Georgia-Italic
+/Georgia-BoldItalic
+/Gigi-Regular
+/GillSansMT-BoldItalic
+/GillSansMT-Bold
+/GillSansMT-Condensed
+/GillSansMT-Italic
+/GillSans-UltraBoldCondensed
+/GillSans-UltraBold
+/GillSansMT
+/GloucesterMT-ExtraCondensed
+/GillSansMT-ExtraCondensedBold
+/CenturyGothic
+/CenturyGothic-Bold
+/CenturyGothic-BoldItalic
+/CenturyGothic-Italic
+/GoudyOldStyleT-Regular
+/GoudyOldStyleT-Bold
+/GoudyOldStyleT-Italic
+/GoudyStout
+/HarlowSolid
+/Harrington
+/Haettenschweiler
+/MicrosoftHimalaya
+/HoloLensMDL2Assets
+/HighTowerText-Reg
+/HighTowerText-Italic
+/Impact
+/ImprintMT-Shadow
+/InformalRoman-Regular
+/InkFree
+/BlackadderITC-Regular
+/EdwardianScriptITC
+/KristenITC-Regular
+/JavaneseText
+/Jokerman-Regular
+/JuiceITC-Regular
+/KunstlerScript
+/LatinWide
+/LucidaBright
+/LucidaBright-Demi
+/LucidaBright-DemiItalic
+/LucidaBright-Italic
+/LucidaCalligraphy-Italic
+/LeelawadeeUI-Bold
+/Leelawadee
+/LeelawadeeBold
+/Leelawadee-Bold
+/LeelawadeeUI
+/LeelawadeeUI-Semilight
+/LucidaFax
+/LucidaFax-Demi
+/LucidaFax-DemiItalic
+/LucidaFax-Italic
+/LucidaHandwriting-Italic
+/LucidaSans
+/LucidaSans-Demi
+/LucidaSans-DemiItalic
+/LucidaSans-Italic
+/LucidaSans-Typewriter
+/LucidaSans-TypewriterBold
+/LucidaSans-TypewriterBoldOblique
+/LucidaSans-TypewriterOblique
+/LucidaConsole
+/LucidaSansUnicode
+/Magneto-Bold
+/MaiandraGD-Regular
+/MalgunGothic
+/MalgunGothicBold
+/MalgunGothic-Semilight
+/Marlett
+/MaturaMTScriptCapitals
+/MicrosoftSansSerif
+/MingLiU-ExtB
+/PMingLiU-ExtB
+/Ming-Lt-HKSCS-ExtB
+/Mistral
+/MyanmarText
+/MyanmarText-Bold
+/Modern-Regular
+/MongolianBaiti
+/MS-Gothic
+/MS-UIGothic
+/MS-PGothic
+/MicrosoftJhengHeiRegular
+/MicrosoftJhengHeiUIRegular
+/MicrosoftJhengHeiBold
+/MicrosoftJhengHeiUIBold
+/MicrosoftJhengHeiLight
+/MicrosoftJhengHeiUILight
+/MicrosoftUighur-Bold
+/MicrosoftUighur
+/MicrosoftYaHei
+/MicrosoftYaHeiUI
+/MicrosoftYaHei-Bold
+/MicrosoftYaHeiUI-Bold
+/MicrosoftYaHeiLight
+/MicrosoftYaHeiUILight
+/Microsoft-Yi-Baiti
+/MonotypeCorsiva
+/MT-Extra
+/MVBoli
+/NiagaraEngraved-Reg
+/NiagaraSolid-Reg
+/NirmalaUI
+/NirmalaUI-Bold
+/NirmalaUI-Semilight
+/MicrosoftNewTaiLue
+/MicrosoftNewTaiLue-Bold
+/OCRAExtended
+/OldEnglishTextMT
+/Onyx
+/MSOutlook
+/PalatinoLinotype-Roman
+/PalatinoLinotype-Bold
+/PalatinoLinotype-BoldItalic
+/PalatinoLinotype-Italic
+/PalaceScriptMT
+/Papyrus-Regular
+/Parchment-Regular
+/Perpetua-BoldItalic
+/Perpetua-Bold
+/Perpetua-Italic
+/PerpetuaTitlingMT-Bold
+/PerpetuaTitlingMT-Light
+/Perpetua
+/MicrosoftPhagsPa
+/MicrosoftPhagsPa-Bold
+/Playbill
+/PoorRichard-Regular
+/Pristina-Regular
+/RageItalic
+/Ravie
+/MSReferenceSansSerif
+/MSReferenceSpecialty
+/Rockwell-CondensedBold
+/Rockwell-Condensed
+/Rockwell
+/Rockwell-Bold
+/Rockwell-BoldItalic
+/Rockwell-ExtraBold
+/Rockwell-Italic
+/CenturySchoolbook-Bold
+/CenturySchoolbook-BoldItalic
+/CenturySchoolbook-Italic
+/ScriptMTBold
+/SegoeMDL2Assets
+/SegoePrint
+/SegoePrint-Bold
+/SegoeScript
+/SegoeScript-Bold
+/SegoeUI
+/SegoeUI-Bold
+/SegoeUI-Italic
+/SegoeUI-Light
+/SegoeUI-Semilight
+/SegoeUI-BoldItalic
+/SegoeUIBlack
+/SegoeUIBlack-Italic
+/SegoeUIEmoji
+/SegoeUIHistoric
+/SegoeUI-LightItalic
+/SegoeUI-Semibold
+/SegoeUI-SemiboldItalic
+/SegoeUI-SemilightItalic
+/SegoeUISymbol
+/ShowcardGothic-Reg
+/SimSun
+/NSimSun
+/SimSun-ExtB
+/SitkaSmall
+/SitkaText
+/SitkaSubheading
+/SitkaHeading
+/SitkaDisplay
+/SitkaBanner
+/SitkaSmall-Bold
+/SitkaText-Bold
+/SitkaSubheading-Bold
+/SitkaHeading-Bold
+/SitkaDisplay-Bold
+/SitkaBanner-Bold
+/SitkaSmall-Italic
+/SitkaText-Italic
+/SitkaSubheading-Italic
+/SitkaHeading-Italic
+/SitkaDisplay-Italic
+/SitkaBanner-Italic
+/SitkaSmall-BoldItalic
+/SitkaText-BoldItalic
+/SitkaSubheading-BoldItalic
+/SitkaHeading-BoldItalic
+/SitkaDisplay-BoldItalic
+/SitkaBanner-BoldItalic
+/SnapITC-Regular
+/Stencil
+/Sylfaen
+/SymbolMT
+/Tahoma
+/Tahoma-Bold
+/MicrosoftTaiLe
+/MicrosoftTaiLe-Bold
+/TwCenMT-BoldItalic
+/TwCenMT-Bold
+/TwCenMT-CondensedBold
+/TwCenMT-CondensedExtraBold
+/TwCenMT-Condensed
+/TwCenMT-Italic
+/TwCenMT-Regular
+/TempusSansITC
+/TimesNewRomanPSMT
+/TimesNewRomanPS-BoldMT
+/TimesNewRomanPS-BoldItalicMT
+/TimesNewRomanPS-ItalicMT
+/TrebuchetMS
+/TrebuchetMS-Bold
+/Trebuchet-BoldItalic
+/TrebuchetMS-Italic
+/Verdana
+/Verdana-Bold
+/Verdana-Italic
+/Verdana-BoldItalic
+/VinerHandITC
+/Vivaldii
+/VladimirScript
+/Webdings
+/Wingdings-Regular
+/Wingdings2
+/Wingdings3
+/YuGothic-Bold
+/YuGothicUI-Bold
+/YuGothicUI-Semibold
+/YuGothic-Light
+/YuGothicUI-Light
+/YuGothic-Medium
+/YuGothicUI-Regular
+/YuGothic-Regular
+/YuGothicUI-Semilight
+/ZWAdobeF
+/AdobeArabic-Bold
+/AdobeArabic-BoldItalic
+/AdobeArabic-Italic
+/AdobeArabic-Regular
+/AdobeDevanagari-Bold
+/AdobeDevanagari-BoldItalic
+/AdobeDevanagari-Italic
+/AdobeDevanagari-Regular
+/AdobeHebrew-Bold
+/AdobeHebrew-BoldItalic
+/AdobeHebrew-Italic
+/AdobeHebrew-Regular
+/AdobePiStd
+/AdobeThai-Bold
+/AdobeThai-BoldItalic
+/AdobeThai-Italic
+/AdobeThai-Regular
+/CourierStd-Bold
+/CourierStd-BoldOblique
+/CourierStd-Oblique
+/CourierStd
+/MinionPro-Bold
+/MinionPro-BoldIt
+/MinionPro-It
+/MinionPro-Regular
+/MyriadArabic-Bold
+/MyriadArabic-BoldIt
+/MyriadArabic-It
+/MyriadArabic-Regular
+/MyriadHebrew-Bold
+/MyriadHebrew-BoldIt
+/MyriadHebrew-It
+/MyriadHebrew-Regular
+/MyriadPro-Bold
+/MyriadPro-BoldIt
+/MyriadPro-It
+/MyriadPro-Regular
+/Symbol
+/AdobeSansMM
+/AdobeSerifMM
+/Courier-BoldOblique
+/Courier-Bold
+/Courier
+/Courier-Oblique
+/AppleGothic
+/AppleMyungjo
+/Beijing
+/DFKaiShu-SB-Estd-BF
+/FutoGoB101-Bold
+/FutoMinA101-Bold
+/GothicBBB-Medium
+/GothicMB101-Bold
+/GothicMB101-hea
+/GothicMB101-Ult
+/HeiseiKakuGo-W3
+/HeiseiKakuGo-W5
+/HeiseiKakuGo-W7
+/HeiseiKakuGo-W9
+/HeiseiMaruGo-W4
+/HeiseiMin-W3
+/HeiseiMin-W3H
+/HeiseiMin-W5
+/HeiseiMin-W7
+/HeiseiMin-W9
+/HonMincho-M
+/HYGoThic-Medium
+/HYGungSo-Bold
+/HYKHeadLine-Bold
+/HYKHeadLine-Medium
+/HYRGoThic-Medium
+/HYSMyeongJo-Medium
+/JCfg
+/JCkg
+/Jun101-Light
+/Jun34-Medium
+/Jun501-Bold
+/KozMin-Bold
+/KozMin-ExtraLight
+/KozMin-Heavy
+/KozMin-Light
+/KozMin-Medium
+/KozMin-Regular
+/KyokaICA-Light
+/KyokaICA-Medium
+/KyokaICA-regular
+/LiGothicMed
+/LiSungLight
+/LogoArl-Bold
+/LogoArl-Light
+/LogoArl-Medium
+/LogoArl-Ultra
+/LogoCut-Bold
+/LogoCut-Light
+/LogoCut-Medium
+/LogoCut-Ultra
+/LogoLine-Bold
+/LogoLine-Light
+/LogoLine-Medium
+/LogoLine-Ultra
+/MaruGothic-M
+/MHei-Medium
+/MidashiGo-MB31
+/MidashiMin-MA31
+/MKai-Medium
+/MSung-Light
+/MSung-Medium
+/Munhwa-Regular
+/MunhwaGothic-Regular
+/Osaka
+/Osaka-Mono
+/Ryumin-Bold
+/Ryumin-heavy
+/Ryumin-Light
+/Ryumin-Medium
+/Ryumin-regular
+/Ryumin-Ultra
+/Seoul
+/ShinGo-Bold
+/ShinGo-Light
+/ShinGo-Medium
+/ShinGo-regular
+/ShinGo-Ultra
+/ShinseiKai-CBSK1
+/SIL-FangSong-
+/SIL-FangSong-Reg-Jian
+/SIL-Hei-Med-Jian
+/SIL-Kai-
+/SIL-Kai-Reg-Jian
+/SIL-Song-Reg-Jian
+/SMGothic-Bold
+/SMGothic-DemiBold
+/SMGothic-Light
+/SMGothic-Medium
+/SMMyungjo-Bold
+/SMMyungjo-DemiBold
+/SMMyungjo-Light
+/SMMyungjo-Medium
+/STFangsong-Light
+/STHeiti-Regular
+/STKaiti-Regular
+/STSong-Light
+/Taipei
+/TBKomachiG-B
+/TBKomachiG-DB
+/TBKomachiG-E
+/TBKomachiG-hv
+/TBKomachiG-M
+/TBKomachiG-R
+/TBKomachiM-DE
+/TBKomachiM-E
+/TBKomachiM-hv
+/TBKomachiM-M
+/TBKomachiRG-R
+/TBKoudoukenG-B
+/TBKoudoukenG-DB
+/TBKoudoukenG-E
+/TBKoudoukenG-hv
+/TBKoudoukenG-M
+/TBKoudoukenG-R
+/TBKoudoukenM-DE
+/TBKoudoukenM-E
+/TBKoudoukenM-hv
+/TBKoudoukenM-M
+/TBKoudoukenRG-R
+/TBRyokanG-B
+/TBRyokanG-DB
+/TBRyokanG-E
+/TBRyokanG-hv
+/TBRyokanG-M
+/TBRyokanG-R
+/TBRyokanM-DE
+/TBRyokanM-E
+/TBRyokanM-hv
+/TBRyokanM-M
+/TBRyokanRG-R
+/TBTsukijiG-B
+/TBTsukijiG-DB
+/TBTsukijiG-E
+/TBTsukijiG-hv
+/TBTsukijiG-M
+/TBTsukijiG-R
+/TBTsukijiM-DE
+/TBTsukijiM-E
+/TBTsukijiM-hv
+/TBTsukijiM-M
+/TBTsukijiRG-R
+/TBYukinariG-B
+/TBYukinariG-DB
+/TBYukinariG-E
+/TBYukinariG-hv
+/TBYukinariG-M
+/TBYukinariG-R
+/TBYukinariM-DE
+/TBYukinariM-E
+/TBYukinariM-hv
+/TBYukinariM-M
+/TBYukinariRG-R
+/TypeBankG-b
+/TypeBankG-db
+/TypeBankG-e
+/TypeBankG-hv
+/TypeBankG-m
+/TypeBankG-r
+/TypeBankM-de
+/TypeBankM-e
+/TypeBankM-hv
+/TypeBankM-m
+/TypeBankMaruG-r
+/CGBM-PropRoman
+/ChuGothicBBB-Medium-PropRoman
+/FutoMinA101-Bold-PropRoman
+/HeiseiKakuGothic-W5-PropRoman
+/HeiseiMincho-W3-PropRoman
+/HonMincho-M-PropRoman
+/HYFix
+/JL-PropRoman
+/Jun101-Light-PropRoman
+/MaruGothic-M-PropRoman
+/MidashiMin-MA31-PropRoman
+/Mincho-PC-Hiragana
+/Mincho-PC-Katakana
+/MMMA-PropRoman
+/NotDefFont
+/Osaka-MonoRoman
+/Osaka-PropRoman
+/RLKL-PropRoman
+/Ryumin-Light-KL-PropRoman
+/SMFix
+
+Iniciado: quinta-feira, 10 de junho de 2021 à(s) 14:53:29
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quinta-feira, 10 de junho de 2021 à(s) 19:38:19
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: sexta-feira, 11 de junho de 2021 à(s) 07:58:00
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: sexta-feira, 11 de junho de 2021 à(s) 15:29:40
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: sexta-feira, 11 de junho de 2021 à(s) 15:58:36
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: sexta-feira, 11 de junho de 2021 à(s) 16:08:26
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: domingo, 13 de junho de 2021 à(s) 09:17:39
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: domingo, 13 de junho de 2021 à(s) 09:18:26
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: domingo, 13 de junho de 2021 à(s) 12:27:24
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Horário de início: domingo, 13 de junho de 2021 à(s) 12:27:25
+Origem: PMtoDistiller_ID_2:Livro 2 de Banco de Dados
+Destino: C:\Users\dankd\OneDrive\Documentos\CDAR\Livro 2 de Banco de Dados.pdf
+Configurações do Adobe PDF: C:\ProgramData\Adobe\Adobe PDF\Settings\Standard.joboptions
+C:\Users\dankd\OneDrive\Documentos\CDAR\Livro 2 de Banco de Dados.log
+%%[ ProductName: Distiller ]%%
+%%[Page: 1]%%
+%%[Page: 2]%%
+%%[Page: 3]%%
+%%[Page: 4]%%
+%%[Page: 5]%%
+%%[Page: 6]%%
+%%[Page: 7]%%
+%%[Page: 8]%%
+%%[Page: 9]%%
+%%[Page: 10]%%
+%%[Page: 11]%%
+%%[Page: 12]%%
+%%[Page: 13]%%
+%%[Page: 14]%%
+%%[Page: 15]%%
+%%[Page: 16]%%
+%%[Page: 17]%%
+%%[Page: 18]%%
+%%[Page: 19]%%
+%%[Page: 20]%%
+%%[Page: 21]%%
+%%[Page: 22]%%
+%%[Page: 23]%%
+%%[Page: 24]%%
+%%[Page: 25]%%
+%%[Page: 26]%%
+%%[Page: 27]%%
+%%[Page: 28]%%
+%%[Page: 29]%%
+%%[Page: 30]%%
+%%[Page: 31]%%
+%%[Page: 32]%%
+%%[Page: 33]%%
+%%[Page: 34]%%
+%%[Page: 35]%%
+%%[Page: 36]%%
+%%[LastPage]%%
+Tempo de destilação: 00 horas : 00 minutos : 04.360 segundos
+**** Fim da tarefa ****
+
+
+Iniciado: domingo, 13 de junho de 2021 à(s) 12:37:09
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: segunda-feira, 14 de junho de 2021 à(s) 08:49:06
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: segunda-feira, 14 de junho de 2021 à(s) 12:13:25
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: segunda-feira, 14 de junho de 2021 à(s) 15:49:49
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: segunda-feira, 14 de junho de 2021 à(s) 15:59:42
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: terça-feira, 15 de junho de 2021 à(s) 08:32:45
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: terça-feira, 15 de junho de 2021 à(s) 08:42:44
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: terça-feira, 15 de junho de 2021 à(s) 12:18:32
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quarta-feira, 16 de junho de 2021 à(s) 10:39:49
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quarta-feira, 16 de junho de 2021 à(s) 11:03:02
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quinta-feira, 17 de junho de 2021 à(s) 08:27:52
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quinta-feira, 17 de junho de 2021 à(s) 14:48:02
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: sexta-feira, 18 de junho de 2021 à(s) 07:59:11
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: sexta-feira, 18 de junho de 2021 à(s) 08:08:32
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: sexta-feira, 18 de junho de 2021 à(s) 09:24:24
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: sexta-feira, 18 de junho de 2021 à(s) 11:25:15
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: sexta-feira, 18 de junho de 2021 à(s) 11:34:57
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: domingo, 20 de junho de 2021 à(s) 09:11:48
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: domingo, 20 de junho de 2021 à(s) 10:02:32
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: domingo, 20 de junho de 2021 à(s) 19:39:37
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: domingo, 20 de junho de 2021 à(s) 20:03:35
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Horário de início: domingo, 20 de junho de 2021 à(s) 20:03:35
+Origem: PMtoDistiller_ID_3:Livro 3 de Banco de Dados
+Destino: C:\Users\dankd\OneDrive\Documentos\CDAR\Livro 3 de Banco de Dados.pdf
+Configurações do Adobe PDF: C:\ProgramData\Adobe\Adobe PDF\Settings\Standard.joboptions
+C:\Users\dankd\OneDrive\Documentos\CDAR\Livro 3 de Banco de Dados.log
+%%[ ProductName: Distiller ]%%
+%%[Page: 1]%%
+%%[Page: 2]%%
+%%[Page: 3]%%
+%%[Page: 4]%%
+%%[Page: 5]%%
+%%[Page: 6]%%
+%%[Page: 7]%%
+%%[Page: 8]%%
+%%[Page: 9]%%
+%%[Page: 10]%%
+%%[Page: 11]%%
+%%[Page: 12]%%
+%%[Page: 13]%%
+%%[Page: 14]%%
+%%[Page: 15]%%
+%%[Page: 16]%%
+%%[Page: 17]%%
+%%[Page: 18]%%
+%%[Page: 19]%%
+%%[Page: 20]%%
+%%[Page: 21]%%
+%%[Page: 22]%%
+%%[Page: 23]%%
+%%[Page: 24]%%
+%%[Page: 25]%%
+%%[Page: 26]%%
+%%[Page: 27]%%
+%%[LastPage]%%
+Tempo de destilação: 00 horas : 00 minutos : 04.891 segundos
+**** Fim da tarefa ****
+
+
+Iniciado: domingo, 20 de junho de 2021 à(s) 22:57:48
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: domingo, 20 de junho de 2021 à(s) 23:07:16
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: segunda-feira, 21 de junho de 2021 à(s) 21:18:18
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: segunda-feira, 21 de junho de 2021 à(s) 21:28:15
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: terça-feira, 22 de junho de 2021 à(s) 08:30:11
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: terça-feira, 22 de junho de 2021 à(s) 11:01:31
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Horário de início: terça-feira, 22 de junho de 2021 à(s) 11:01:32
+Origem: PMtoDistiller_ID_4:Livro 4 de Banco de Dados
+Destino: C:\Users\dankd\OneDrive\Documentos\CDAR\Livro 4 de Banco de Dados.pdf
+Configurações do Adobe PDF: C:\ProgramData\Adobe\Adobe PDF\Settings\Standard.joboptions
+C:\Users\dankd\OneDrive\Documentos\CDAR\Livro 4 de Banco de Dados.log
+%%[ ProductName: Distiller ]%%
+%%[Page: 1]%%
+%%[Page: 2]%%
+%%[Page: 3]%%
+%%[Page: 4]%%
+%%[Page: 5]%%
+%%[Page: 6]%%
+%%[Page: 7]%%
+%%[Page: 8]%%
+%%[Page: 9]%%
+%%[Page: 10]%%
+%%[Page: 11]%%
+%%[Page: 12]%%
+%%[Page: 13]%%
+%%[Page: 14]%%
+%%[Page: 15]%%
+%%[Page: 16]%%
+%%[Page: 17]%%
+%%[Page: 18]%%
+%%[Page: 19]%%
+%%[Page: 20]%%
+%%[Page: 21]%%
+%%[Page: 22]%%
+%%[Page: 23]%%
+%%[Page: 24]%%
+%%[Page: 25]%%
+%%[Page: 26]%%
+%%[Page: 27]%%
+%%[Page: 28]%%
+%%[Page: 29]%%
+%%[Page: 30]%%
+%%[Page: 31]%%
+%%[Page: 32]%%
+%%[Page: 33]%%
+%%[Page: 34]%%
+%%[Page: 35]%%
+%%[Page: 36]%%
+%%[Page: 37]%%
+%%[Page: 38]%%
+%%[Page: 39]%%
+%%[Page: 40]%%
+%%[LastPage]%%
+Tempo de destilação: 00 horas : 00 minutos : 11.188 segundos
+**** Fim da tarefa ****
+
+
+Iniciado: terça-feira, 22 de junho de 2021 à(s) 11:11:23
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: terça-feira, 22 de junho de 2021 à(s) 14:30:19
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: terça-feira, 22 de junho de 2021 à(s) 14:31:21
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quarta-feira, 23 de junho de 2021 à(s) 08:15:23
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quarta-feira, 23 de junho de 2021 à(s) 08:25:06
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quarta-feira, 23 de junho de 2021 à(s) 17:43:19
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quarta-feira, 23 de junho de 2021 à(s) 18:08:04
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quarta-feira, 23 de junho de 2021 à(s) 18:17:51
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quinta-feira, 24 de junho de 2021 à(s) 08:32:59
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quinta-feira, 24 de junho de 2021 à(s) 08:57:10
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Horário de início: quinta-feira, 24 de junho de 2021 à(s) 08:57:10
+Origem: PMtoDistiller_ID_2:JCA - Venda de Passagens Online
+Destino: C:\Users\dankd\OneDrive\Documentos\CartaoEmbarque_CaboFrio_DanielleMenezes.pdf
+Configurações do Adobe PDF: C:\ProgramData\Adobe\Adobe PDF\Settings\Standard.joboptions
+C:\Users\dankd\OneDrive\Documentos\CartaoEmbarque_CaboFrio_DanielleMenezes.log
+%%[ ProductName: Distiller ]%%
+%%[Page: 1]%%
+%%[LastPage]%%
+Tempo de destilação: 00 horas : 00 minutos : 00.484 segundos
+**** Fim da tarefa ****
+
+
+Horário de início: quinta-feira, 24 de junho de 2021 à(s) 08:57:49
+Origem: PMtoDistiller_ID_3:JCA - Venda de Passagens Online
+Destino: C:\Users\dankd\OneDrive\Documentos\CartaoEmbarque_CaboFrio_Claudiney.pdf
+Configurações do Adobe PDF: C:\ProgramData\Adobe\Adobe PDF\Settings\Standard.joboptions
+C:\Users\dankd\OneDrive\Documentos\CartaoEmbarque_CaboFrio_Claudiney.log
+%%[ ProductName: Distiller ]%%
+%%[Page: 1]%%
+%%[LastPage]%%
+Tempo de destilação: 00 horas : 00 minutos : 00.343 segundos
+**** Fim da tarefa ****
+
+
+Iniciado: quinta-feira, 24 de junho de 2021 à(s) 09:06:47
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quinta-feira, 24 de junho de 2021 à(s) 09:07:14
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Horário de início: quinta-feira, 24 de junho de 2021 à(s) 09:07:14
+Origem: PMtoDistiller_ID_4:JCA - Venda de Passagens Online
+Destino: C:\Users\dankd\OneDrive\Documentos\CartaoEmbarque_Buzios_DanielleMenezes.pdf
+Configurações do Adobe PDF: C:\ProgramData\Adobe\Adobe PDF\Settings\Standard.joboptions
+C:\Users\dankd\OneDrive\Documentos\CartaoEmbarque_Buzios_DanielleMenezes.log
+%%[ ProductName: Distiller ]%%
+%%[Page: 1]%%
+%%[LastPage]%%
+Tempo de destilação: 00 horas : 00 minutos : 00.421 segundos
+**** Fim da tarefa ****
+
+
+Horário de início: quinta-feira, 24 de junho de 2021 à(s) 09:08:28
+Origem: PMtoDistiller_ID_5:JCA - Venda de Passagens Online
+Destino: C:\Users\dankd\OneDrive\Documentos\CartaoEmbarque_Buzios_Claudiney.pdf
+Configurações do Adobe PDF: C:\ProgramData\Adobe\Adobe PDF\Settings\Standard.joboptions
+C:\Users\dankd\OneDrive\Documentos\CartaoEmbarque_Buzios_Claudiney.log
+%%[ ProductName: Distiller ]%%
+%%[Page: 1]%%
+%%[LastPage]%%
+Tempo de destilação: 00 horas : 00 minutos : 00.359 segundos
+**** Fim da tarefa ****
+
+
+Iniciado: sexta-feira, 25 de junho de 2021 à(s) 06:47:06
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: sexta-feira, 25 de junho de 2021 à(s) 06:47:22
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: sexta-feira, 25 de junho de 2021 à(s) 06:56:59
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: sexta-feira, 25 de junho de 2021 à(s) 08:29:43
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: sexta-feira, 25 de junho de 2021 à(s) 13:23:50
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: segunda-feira, 28 de junho de 2021 à(s) 10:29:45
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: segunda-feira, 28 de junho de 2021 à(s) 11:39:50
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: segunda-feira, 28 de junho de 2021 à(s) 21:15:28
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: segunda-feira, 28 de junho de 2021 à(s) 21:25:18
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: terça-feira, 29 de junho de 2021 à(s) 08:28:32
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: terça-feira, 29 de junho de 2021 à(s) 08:38:22
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: terça-feira, 29 de junho de 2021 à(s) 11:44:35
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: terça-feira, 29 de junho de 2021 à(s) 13:12:54
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Horário de início: terça-feira, 29 de junho de 2021 à(s) 13:12:54
+Origem: PMtoDistiller_ID_6:Let me fly __ Collage on Behance
+Destino: C:\Users\dankd\Documents\_SENAI Cetiqt\PIV Design de Produto de Moda\Referencias\Imagens Dani\Let me fly __ Collage on Behance.pdf
+Configurações do Adobe PDF: C:\ProgramData\Adobe\Adobe PDF\Settings\Standard.joboptions
+C:\Users\dankd\Documents\_SENAI Cetiqt\PIV Design de Produto de Moda\Referencias\Imagens Dani\Let me fly __ Collage on Behance.log
+%%[ ProductName: Distiller ]%%
+%%[Page: 1]%%
+%%[LastPage]%%
+Tempo de destilação: 00 horas : 00 minutos : 00.688 segundos
+**** Fim da tarefa ****
+
+
+Iniciado: terça-feira, 29 de junho de 2021 à(s) 16:19:40
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: terça-feira, 29 de junho de 2021 à(s) 16:19:56
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: terça-feira, 29 de junho de 2021 à(s) 16:20:13
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quarta-feira, 30 de junho de 2021 à(s) 08:42:42
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quarta-feira, 30 de junho de 2021 à(s) 19:32:41
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quarta-feira, 30 de junho de 2021 à(s) 19:42:32
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quinta-feira, 1 de julho de 2021 à(s) 20:45:13
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quinta-feira, 1 de julho de 2021 à(s) 20:55:04
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: sexta-feira, 2 de julho de 2021 à(s) 06:51:35
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: sexta-feira, 2 de julho de 2021 à(s) 07:01:27
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: sexta-feira, 2 de julho de 2021 à(s) 12:58:10
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: domingo, 4 de julho de 2021 à(s) 09:42:19
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: segunda-feira, 5 de julho de 2021 à(s) 08:33:57
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: segunda-feira, 5 de julho de 2021 à(s) 08:43:48
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: segunda-feira, 5 de julho de 2021 à(s) 11:12:24
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: segunda-feira, 5 de julho de 2021 à(s) 21:10:52
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: segunda-feira, 5 de julho de 2021 à(s) 21:20:41
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: terça-feira, 6 de julho de 2021 à(s) 07:11:15
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: terça-feira, 6 de julho de 2021 à(s) 07:21:06
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: terça-feira, 6 de julho de 2021 à(s) 15:16:27
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: terça-feira, 6 de julho de 2021 à(s) 20:14:36
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: terça-feira, 6 de julho de 2021 à(s) 20:24:23
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quarta-feira, 7 de julho de 2021 à(s) 07:52:58
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quarta-feira, 7 de julho de 2021 à(s) 08:02:50
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quarta-feira, 7 de julho de 2021 à(s) 11:15:58
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quarta-feira, 7 de julho de 2021 à(s) 21:35:17
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quarta-feira, 7 de julho de 2021 à(s) 21:35:33
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quarta-feira, 7 de julho de 2021 à(s) 21:35:55
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quarta-feira, 7 de julho de 2021 à(s) 21:45:07
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quinta-feira, 8 de julho de 2021 à(s) 07:45:15
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quinta-feira, 8 de julho de 2021 à(s) 07:55:07
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quinta-feira, 8 de julho de 2021 à(s) 11:23:31
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quinta-feira, 8 de julho de 2021 à(s) 20:13:49
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quinta-feira, 8 de julho de 2021 à(s) 20:23:41
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: sexta-feira, 9 de julho de 2021 à(s) 06:51:34
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: sexta-feira, 9 de julho de 2021 à(s) 07:34:30
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: sábado, 10 de julho de 2021 à(s) 17:30:45
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: domingo, 11 de julho de 2021 à(s) 07:56:11
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: domingo, 11 de julho de 2021 à(s) 08:06:04
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: domingo, 11 de julho de 2021 à(s) 22:59:02
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: segunda-feira, 12 de julho de 2021 à(s) 06:56:12
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: segunda-feira, 12 de julho de 2021 à(s) 07:06:04
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: segunda-feira, 12 de julho de 2021 à(s) 17:40:15
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: segunda-feira, 12 de julho de 2021 à(s) 19:22:04
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: segunda-feira, 12 de julho de 2021 à(s) 19:31:57
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: terça-feira, 13 de julho de 2021 à(s) 07:04:19
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: terça-feira, 13 de julho de 2021 à(s) 07:04:37
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: terça-feira, 13 de julho de 2021 à(s) 08:11:55
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: terça-feira, 13 de julho de 2021 à(s) 19:51:02
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: terça-feira, 13 de julho de 2021 à(s) 20:00:54
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quarta-feira, 14 de julho de 2021 à(s) 07:01:47
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quarta-feira, 14 de julho de 2021 à(s) 07:11:37
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quarta-feira, 14 de julho de 2021 à(s) 14:53:38
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quarta-feira, 14 de julho de 2021 à(s) 16:19:50
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quarta-feira, 14 de julho de 2021 à(s) 19:58:46
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quarta-feira, 14 de julho de 2021 à(s) 20:08:38
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quinta-feira, 15 de julho de 2021 à(s) 07:00:56
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quinta-feira, 15 de julho de 2021 à(s) 07:01:28
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quinta-feira, 15 de julho de 2021 à(s) 15:03:04
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quinta-feira, 15 de julho de 2021 à(s) 19:28:14
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quinta-feira, 15 de julho de 2021 à(s) 19:37:59
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: sexta-feira, 16 de julho de 2021 à(s) 06:46:49
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: sexta-feira, 16 de julho de 2021 à(s) 08:56:58
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: sábado, 17 de julho de 2021 à(s) 17:12:57
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: sábado, 17 de julho de 2021 à(s) 21:00:49
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: domingo, 18 de julho de 2021 à(s) 08:46:58
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: domingo, 18 de julho de 2021 à(s) 08:56:50
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: segunda-feira, 19 de julho de 2021 à(s) 07:03:57
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: segunda-feira, 19 de julho de 2021 à(s) 16:03:06
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: terça-feira, 20 de julho de 2021 à(s) 07:02:32
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: terça-feira, 20 de julho de 2021 à(s) 09:00:28
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: terça-feira, 20 de julho de 2021 à(s) 18:58:45
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: terça-feira, 20 de julho de 2021 à(s) 19:08:36
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quarta-feira, 21 de julho de 2021 à(s) 07:12:33
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quarta-feira, 21 de julho de 2021 à(s) 10:31:18
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quarta-feira, 21 de julho de 2021 à(s) 16:32:51
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quarta-feira, 21 de julho de 2021 à(s) 16:32:51
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quarta-feira, 21 de julho de 2021 à(s) 16:42:34
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quarta-feira, 21 de julho de 2021 à(s) 19:40:12
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quarta-feira, 21 de julho de 2021 à(s) 22:46:33
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quarta-feira, 21 de julho de 2021 à(s) 22:47:15
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quinta-feira, 22 de julho de 2021 à(s) 06:59:43
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quinta-feira, 22 de julho de 2021 à(s) 07:09:32
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quinta-feira, 22 de julho de 2021 à(s) 19:01:33
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quinta-feira, 22 de julho de 2021 à(s) 19:11:23
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: sexta-feira, 23 de julho de 2021 à(s) 06:58:49
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: sexta-feira, 23 de julho de 2021 à(s) 07:08:36
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: sexta-feira, 23 de julho de 2021 à(s) 09:48:44
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: sexta-feira, 23 de julho de 2021 à(s) 09:58:21
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: domingo, 25 de julho de 2021 à(s) 08:58:53
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: domingo, 25 de julho de 2021 à(s) 11:33:58
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: domingo, 25 de julho de 2021 à(s) 11:38:07
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: domingo, 25 de julho de 2021 à(s) 11:47:27
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: domingo, 25 de julho de 2021 à(s) 16:31:45
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: domingo, 25 de julho de 2021 à(s) 16:41:34
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: segunda-feira, 26 de julho de 2021 à(s) 07:28:26
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: segunda-feira, 26 de julho de 2021 à(s) 07:38:18
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: segunda-feira, 26 de julho de 2021 à(s) 11:54:06
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: terça-feira, 27 de julho de 2021 à(s) 06:52:30
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: terça-feira, 27 de julho de 2021 à(s) 07:02:20
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: terça-feira, 27 de julho de 2021 à(s) 13:21:14
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: terça-feira, 27 de julho de 2021 à(s) 14:25:01
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: terça-feira, 27 de julho de 2021 à(s) 14:34:52
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quarta-feira, 28 de julho de 2021 à(s) 07:00:47
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quarta-feira, 28 de julho de 2021 à(s) 07:10:39
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quarta-feira, 28 de julho de 2021 à(s) 11:54:51
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quarta-feira, 28 de julho de 2021 à(s) 19:16:45
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quarta-feira, 28 de julho de 2021 à(s) 19:26:36
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quinta-feira, 29 de julho de 2021 à(s) 07:31:38
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quinta-feira, 29 de julho de 2021 à(s) 07:41:30
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quinta-feira, 29 de julho de 2021 à(s) 12:18:29
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: quinta-feira, 29 de julho de 2021 à(s) 18:21:19
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: sexta-feira, 30 de julho de 2021 à(s) 07:04:37
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: sexta-feira, 30 de julho de 2021 à(s) 07:14:28
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: sexta-feira, 30 de julho de 2021 à(s) 12:30:24
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: sábado, 31 de julho de 2021 à(s) 20:14:54
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: sábado, 31 de julho de 2021 à(s) 20:15:19
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: domingo, 1 de agosto de 2021 à(s) 15:57:31
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: domingo, 1 de agosto de 2021 à(s) 16:07:24
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: segunda-feira, 2 de agosto de 2021 à(s) 06:56:10
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: segunda-feira, 2 de agosto de 2021 à(s) 07:20:18
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Horário de início: segunda-feira, 2 de agosto de 2021 à(s) 07:20:18
+Origem: PMtoDistiller_ID_2:GetLatestReportStream
+Destino: C:\Users\dankd\Documents\_SENAI Cetiqt\PIV Design de Produto de Moda\Referencias\Imagens Dani\Ultrassom.pdf
+Configurações do Adobe PDF: C:\ProgramData\Adobe\Adobe PDF\Settings\Standard.joboptions
+C:\Users\dankd\Documents\_SENAI Cetiqt\PIV Design de Produto de Moda\Referencias\Imagens Dani\Ultrassom.log
+%%[ ProductName: Distiller ]%%
+%%[Page: 1]%%
+%%[LastPage]%%
+Tempo de destilação: 00 horas : 00 minutos : 00.672 segundos
+**** Fim da tarefa ****
+
+
+Iniciado: segunda-feira, 2 de agosto de 2021 à(s) 07:30:04
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: segunda-feira, 2 de agosto de 2021 à(s) 19:09:55
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: segunda-feira, 2 de agosto de 2021 à(s) 19:10:25
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: segunda-feira, 2 de agosto de 2021 à(s) 19:19:46
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: segunda-feira, 2 de agosto de 2021 à(s) 23:01:18
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: terça-feira, 3 de agosto de 2021 à(s) 06:59:26
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: terça-feira, 3 de agosto de 2021 à(s) 07:09:10
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Iniciado: terça-feira, 3 de agosto de 2021 à(s) 13:02:35
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.
+
+Horário de início: terça-feira, 3 de agosto de 2021 à(s) 13:02:35
+Origem: PMtoDistiller_ID_3:GetLatestReportStream
+Destino: C:\Users\dankd\Documents\Ultrassonografia-Transvaginal_2021-07-27_Danielle-Menezes_p2.pdf
+Configurações do Adobe PDF: C:\ProgramData\Adobe\Adobe PDF\Settings\Standard.joboptions
+C:\Users\dankd\Documents\Ultrassonografia-Transvaginal_2021-07-27_Danielle-Menezes_p2.log
+%%[ ProductName: Distiller ]%%
+%%[Page: 1]%%
+%%[LastPage]%%
+Tempo de destilação: 00 horas : 00 minutos : 00.391 segundos
+**** Fim da tarefa ****
+
+
+Iniciado: terça-feira, 3 de agosto de 2021 à(s) 13:12:06
+
+Adobe PostScript versão do software: 3018.101
+CID support library initialization completed.

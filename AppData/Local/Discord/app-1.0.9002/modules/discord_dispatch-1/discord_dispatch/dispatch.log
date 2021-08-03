@@ -1,0 +1,105 @@
+[2021-07-13][14:35:32][DEBUG][discord_dispatch::application_manager:195] App started. version="1.10.5"
+[2021-07-13][14:35:32][DEBUG][discord_dispatch::application_manager:1030] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" }
+[2021-07-13][14:35:32][WARN][discord_dispatch::application_manager:1034] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "O sistema não pode encontrar o caminho especificado." }
+[2021-07-13][14:35:32][DEBUG][discord_dispatch::application_manager:237] Resume requested.
+[2021-07-13][19:51:01][DEBUG][discord_dispatch::application_manager:195] App started. version="1.10.5"
+[2021-07-13][19:51:01][DEBUG][discord_dispatch::application_manager:1030] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" }
+[2021-07-13][19:51:01][WARN][discord_dispatch::application_manager:1034] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "O sistema não pode encontrar o caminho especificado." }
+[2021-07-13][19:51:01][DEBUG][discord_dispatch::application_manager:237] Resume requested.
+[2021-07-14][07:01:42][DEBUG][discord_dispatch::application_manager:195] App started. version="1.10.5"
+[2021-07-14][07:01:42][DEBUG][discord_dispatch::application_manager:1030] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" }
+[2021-07-14][07:01:42][WARN][discord_dispatch::application_manager:1034] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "O sistema não pode encontrar o caminho especificado." }
+[2021-07-14][07:01:42][DEBUG][discord_dispatch::application_manager:237] Resume requested.
+[2021-07-14][07:46:46][DEBUG][discord_dispatch::application_manager:712] Updating credentials.
+[2021-07-14][11:27:44][DEBUG][discord_dispatch::application_manager:712] Updating credentials.
+[2021-07-14][13:46:11][DEBUG][discord_dispatch::application_manager:712] Updating credentials.
+[2021-07-14][19:58:44][DEBUG][discord_dispatch::application_manager:195] App started. version="1.10.5"
+[2021-07-14][19:58:44][DEBUG][discord_dispatch::application_manager:1030] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" }
+[2021-07-14][19:58:44][WARN][discord_dispatch::application_manager:1034] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "O sistema não pode encontrar o caminho especificado." }
+[2021-07-14][19:58:44][DEBUG][discord_dispatch::application_manager:237] Resume requested.
+[2021-07-15][07:00:55][DEBUG][discord_dispatch::application_manager:195] App started. version="1.10.5"
+[2021-07-15][07:00:55][DEBUG][discord_dispatch::application_manager:1030] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" }
+[2021-07-15][07:00:55][WARN][discord_dispatch::application_manager:1034] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "O sistema não pode encontrar o caminho especificado." }
+[2021-07-15][07:00:55][DEBUG][discord_dispatch::application_manager:237] Resume requested.
+[2021-07-15][14:22:21][DEBUG][discord_dispatch::application_manager:712] Updating credentials.
+[2021-07-15][19:28:43][DEBUG][discord_dispatch::application_manager:195] App started. version="1.10.5"
+[2021-07-15][19:28:43][DEBUG][discord_dispatch::application_manager:1030] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" }
+[2021-07-15][19:28:43][WARN][discord_dispatch::application_manager:1034] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "O sistema não pode encontrar o caminho especificado." }
+[2021-07-15][19:28:43][DEBUG][discord_dispatch::application_manager:237] Resume requested.
+[2021-07-16][06:46:48][DEBUG][discord_dispatch::application_manager:195] App started. version="1.10.5"
+[2021-07-16][06:46:48][DEBUG][discord_dispatch::application_manager:1030] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" }
+[2021-07-16][06:46:48][WARN][discord_dispatch::application_manager:1034] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "O sistema não pode encontrar o caminho especificado." }
+[2021-07-16][06:46:48][DEBUG][discord_dispatch::application_manager:237] Resume requested.
+[2021-07-16][08:23:43][DEBUG][discord_dispatch::application_manager:712] Updating credentials.
+[2021-07-16][13:18:57][DEBUG][discord_dispatch::application_manager:712] Updating credentials.
+[2021-07-16][14:11:55][DEBUG][discord_dispatch::application_manager:712] Updating credentials.
+[2021-07-17][17:12:56][DEBUG][discord_dispatch::application_manager:195] App started. version="1.10.5"
+[2021-07-17][17:12:56][DEBUG][discord_dispatch::application_manager:1030] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" }
+[2021-07-17][17:12:56][WARN][discord_dispatch::application_manager:1034] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "O sistema não pode encontrar o caminho especificado." }
+[2021-07-17][17:12:56][DEBUG][discord_dispatch::application_manager:237] Resume requested.
+[2021-07-18][08:46:54][DEBUG][discord_dispatch::application_manager:195] App started. version="1.10.5"
+[2021-07-18][08:46:54][DEBUG][discord_dispatch::application_manager:1030] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" }
+[2021-07-18][08:46:54][WARN][discord_dispatch::application_manager:1034] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "O sistema não pode encontrar o caminho especificado." }
+[2021-07-18][08:46:54][DEBUG][discord_dispatch::application_manager:237] Resume requested.
+[2021-07-18][14:33:41][DEBUG][discord_dispatch::application_manager:712] Updating credentials.
+[2021-07-19][07:03:54][DEBUG][discord_dispatch::application_manager:195] App started. version="1.10.5"
+[2021-07-19][07:03:54][DEBUG][discord_dispatch::application_manager:1030] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" }
+[2021-07-19][07:03:54][WARN][discord_dispatch::application_manager:1034] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "O sistema não pode encontrar o caminho especificado." }
+[2021-07-19][07:03:54][DEBUG][discord_dispatch::application_manager:237] Resume requested.
+[2021-07-19][14:11:41][DEBUG][discord_dispatch::application_manager:712] Updating credentials.
+[2021-07-20][07:02:28][DEBUG][discord_dispatch::application_manager:195] App started. version="1.10.5"
+[2021-07-20][07:02:28][DEBUG][discord_dispatch::application_manager:1030] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" }
+[2021-07-20][07:02:28][WARN][discord_dispatch::application_manager:1034] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "O sistema não pode encontrar o caminho especificado." }
+[2021-07-20][07:02:28][DEBUG][discord_dispatch::application_manager:237] Resume requested.
+[2021-07-20][13:54:51][DEBUG][discord_dispatch::application_manager:712] Updating credentials.
+[2021-07-20][18:00:59][DEBUG][discord_dispatch::application_manager:712] Updating credentials.
+[2021-07-20][18:58:37][DEBUG][discord_dispatch::application_manager:195] App started. version="1.10.5"
+[2021-07-20][18:58:37][DEBUG][discord_dispatch::application_manager:1030] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" }
+[2021-07-20][18:58:37][WARN][discord_dispatch::application_manager:1034] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "O sistema não pode encontrar o caminho especificado." }
+[2021-07-20][18:58:37][DEBUG][discord_dispatch::application_manager:237] Resume requested.
+[2021-07-21][07:12:25][DEBUG][discord_dispatch::application_manager:195] App started. version="1.10.5"
+[2021-07-21][07:12:25][DEBUG][discord_dispatch::application_manager:1030] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" }
+[2021-07-21][07:12:25][WARN][discord_dispatch::application_manager:1034] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "O sistema não pode encontrar o caminho especificado." }
+[2021-07-21][07:12:25][DEBUG][discord_dispatch::application_manager:237] Resume requested.
+[2021-07-21][14:08:35][DEBUG][discord_dispatch::application_manager:712] Updating credentials.
+[2021-07-21][15:46:02][DEBUG][discord_dispatch::application_manager:712] Updating credentials.
+[2021-07-21][16:32:41][DEBUG][discord_dispatch::application_manager:195] App started. version="1.10.5"
+[2021-07-21][16:32:41][DEBUG][discord_dispatch::application_manager:1030] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" }
+[2021-07-21][16:32:41][WARN][discord_dispatch::application_manager:1034] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "O sistema não pode encontrar o caminho especificado." }
+[2021-07-21][16:32:41][DEBUG][discord_dispatch::application_manager:237] Resume requested.
+[2021-07-22][06:59:42][DEBUG][discord_dispatch::application_manager:195] App started. version="1.10.5"
+[2021-07-22][06:59:42][DEBUG][discord_dispatch::application_manager:1030] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" }
+[2021-07-22][06:59:42][WARN][discord_dispatch::application_manager:1034] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "O sistema não pode encontrar o caminho especificado." }
+[2021-07-22][06:59:42][DEBUG][discord_dispatch::application_manager:237] Resume requested.
+[2021-07-22][14:02:14][DEBUG][discord_dispatch::application_manager:712] Updating credentials.
+[2021-07-22][19:01:27][DEBUG][discord_dispatch::application_manager:195] App started. version="1.10.5"
+[2021-07-22][19:01:27][DEBUG][discord_dispatch::application_manager:1030] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" }
+[2021-07-22][19:01:27][WARN][discord_dispatch::application_manager:1034] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "O sistema não pode encontrar o caminho especificado." }
+[2021-07-22][19:01:27][DEBUG][discord_dispatch::application_manager:237] Resume requested.
+[2021-07-23][06:58:49][DEBUG][discord_dispatch::application_manager:195] App started. version="1.10.5"
+[2021-07-23][06:58:49][DEBUG][discord_dispatch::application_manager:1030] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" }
+[2021-07-23][06:58:49][WARN][discord_dispatch::application_manager:1034] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "O sistema não pode encontrar o caminho especificado." }
+[2021-07-23][06:58:49][DEBUG][discord_dispatch::application_manager:237] Resume requested.
+[2021-07-23][08:04:54][DEBUG][discord_dispatch::application_manager:712] Updating credentials.
+[2021-07-23][08:10:51][DEBUG][discord_dispatch::application_manager:712] Updating credentials.
+[2021-07-23][09:48:36][DEBUG][discord_dispatch::application_manager:195] App started. version="1.10.5"
+[2021-07-23][09:48:36][DEBUG][discord_dispatch::application_manager:1030] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" }
+[2021-07-23][09:48:36][WARN][discord_dispatch::application_manager:1034] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "O sistema não pode encontrar o caminho especificado." }
+[2021-07-23][09:48:37][DEBUG][discord_dispatch::application_manager:237] Resume requested.
+[2021-07-25][08:58:53][DEBUG][discord_dispatch::application_manager:195] App started. version="1.10.5"
+[2021-07-25][08:58:53][DEBUG][discord_dispatch::application_manager:1030] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" }
+[2021-07-25][08:58:53][WARN][discord_dispatch::application_manager:1034] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "O sistema não pode encontrar o caminho especificado." }
+[2021-07-25][08:58:54][DEBUG][discord_dispatch::application_manager:237] Resume requested.
+[2021-07-25][11:38:04][DEBUG][discord_dispatch::application_manager:195] App started. version="1.10.5"
+[2021-07-25][11:38:04][DEBUG][discord_dispatch::application_manager:1030] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" }
+[2021-07-25][11:38:04][WARN][discord_dispatch::application_manager:1034] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "O sistema não pode encontrar o caminho especificado." }
+[2021-07-25][11:38:05][DEBUG][discord_dispatch::application_manager:237] Resume requested.
+[2021-07-25][16:04:33][DEBUG][discord_dispatch::application_manager:712] Updating credentials.
+[2021-07-25][16:31:39][DEBUG][discord_dispatch::application_manager:195] App started. version="1.10.5"
+[2021-07-25][16:31:39][DEBUG][discord_dispatch::application_manager:1030] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" }
+[2021-07-25][16:31:39][WARN][discord_dispatch::application_manager:1034] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "O sistema não pode encontrar o caminho especificado." }
+[2021-07-25][16:31:39][DEBUG][discord_dispatch::application_manager:237] Resume requested.
+[2021-07-26][12:39:22][DEBUG][discord_dispatch::application_manager:195] App started. version="1.10.5"
+[2021-07-26][12:39:22][DEBUG][discord_dispatch::application_manager:1030] Searching for applications. install_path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" }
+[2021-07-26][12:39:22][WARN][discord_dispatch::application_manager:1034] Failed to read install path. path=AbsolutePath { path_buf: "C:\\Users\\dankd\\AppData\\Local\\DiscordGames" } error=Os { code: 3, kind: NotFound, message: "O sistema não pode encontrar o caminho especificado." }
+[2021-07-26][12:39:22][DEBUG][discord_dispatch::application_manager:237] Resume requested.

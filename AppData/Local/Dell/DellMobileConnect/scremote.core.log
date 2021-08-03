@@ -1,0 +1,5 @@
+Dell Mobile Connect 3.2.0.9660
+[28/05/21 17:16:34.024 | tid:13048 | logger | critical]: STARTING INSTANCE pid=004272, level = 3
+[28/05/21 17:16:34.024 | tid:13048 | BluePhoneClient.App.xaml | off]: StartLogging() Starting XAML app version 3.2.0.9660, Command line: "C:\Program Files\WindowsApps\ScreenovateTechnologies.DellMobileConnect_3.2.9660.0_x64__0vhbc3ng4wbp0\app\DellMobileConnectClient.exe" /InvokerPRAID: DellMobileConnectClient /preinstall, log level = 3, all logs=False special flag off
+[28/05/21 17:16:34.042 | tid:13048 | UiCommon.OsUtils | error]: TryGetRegistryKeyString() couldn't open registry path SOFTWARE\Screenovate\BluePhone under hive HKEY_LOCAL_MACHINE
+[28/05/21 17:16:35.949 | tid:13048 | logger | critical]: STOPPING INSTANCE pid=004272
